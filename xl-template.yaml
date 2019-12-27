@@ -1,4 +1,4 @@
-name: template_name
-description: This is template description
+name: git_template
+description: This is a template hosted in Git
 fragments:
 - labels
