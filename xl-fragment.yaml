@@ -1,0 +1,5 @@
+name: labels
+description: This is fragment for labels description
+type: jython
+produces: json
+file: labels.py

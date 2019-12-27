@@ -1,0 +1,4 @@
+name: template_name
+description: This is template description
+fragments:
+- labels
